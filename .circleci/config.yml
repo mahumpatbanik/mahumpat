@@ -18,7 +18,7 @@ jobs:
         command: |
          
          
-          sleep 2s
+          ls
 
     - run:
         name: SetUp_Stop
